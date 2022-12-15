@@ -1,6 +1,6 @@
-# Messy-code-recovery
+# Mojibake-recovery
 
-Messy code recovery. Try to encode and decode in utf-8, gbk, BIG5, euc_kr and much more
+Mojibake recovery. Try to encode and decode in utf-8, gbk, BIG5, euc_kr and much more
 
 中文版请看 [README-CN.md](./README-CN.md)
 
