@@ -23,12 +23,6 @@ python main.py
 
 ## 灵感
 
-It was made for an online TRPG game. In that game, the DM hide some information encode the information in one encoding and decode in another encoding, so the players can't get the information. So I made this tool to help them.
-
-By the way, This game is wonderful. If you are interested in it, you can find it in [here](https://www.nmbxd1.com/t/52010487). The DM is currently very busy, so you may need to wait for a while.
-
-Inspired by [MojibakeRecover](https://github.com/Dreace/MojibakeRecover) and [乱码恢复](http://www.mytju.com/classcode/tools/messyCodeRecover.asp)
-
 这是我为了一个线上跑团做的工具。在那个游戏中，DM 会隐藏一些信息，然后使用一种编码对信息进行编码，使用另一种编码对信息进行解码，这样玩家猜不到藏了啥。所以我做了这个工具来解码。
 
 顺便安利这个团，在[这里](https://www.nmbxd1.com/t/52010487)可以找到。DM 很忙，目前是鸽子。
